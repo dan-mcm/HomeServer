@@ -1,0 +1,67 @@
+body{
+    background-image:url("./background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color:black;
+}
+
+#container{
+    width:100%;
+    margin-top: 20px;
+}
+
+#map{
+    opacity:0.3;
+    margin-top:20px;
+    margin-left:20px;
+    text-align:center;
+}
+
+#wrapperleft{
+   float:left;
+   width:
+30%;
+   margin:0 auto;
+   text-align:center;
+}
+
+#wrappercenter{
+    display:inline-block;
+    margin:0 auto;
+    width: 30%;
+    margin: 0 auto;
+    text-align:center;
+}
+
+
+#wrapperright{
+    float:right;
+    width:20%;
+    margin:0 auto;
+    text-align:center;
+}
+
+#weather{
+    background-color: white;
+    color: black;
+    width:80%;
+    overflow: hidden;
+    margin: 0 auto;
+    opacity: 0.3;
+    border-stlye: groove;
+    border-radius: 25px;
+}
+
+#buses{
+    background-color: white;
+    color: black;
+    width: 70%;
+    overflow: hidden;
+    margin: 0 auto; 
+    border-radius: 25px;
+    border-style: groove;
+    border-color: light-blue;
+    text-align: center;
+    opacity: 0.3;
+    width:100%;
+}
