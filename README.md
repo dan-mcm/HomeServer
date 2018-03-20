@@ -4,7 +4,7 @@ A [Flask](http://flask.pocoo.org/) application that displays useful data on near
 
 Initially setup as a project running on my home network from the Raspberry Pi.
 
-Shows the following
+## Shows the following
 - Nearby Bus Data (Dublin Bus API)
 - Nearby Bike Data (Dublin Bikes API)
 - Google Maps (Google Maps API)
@@ -12,7 +12,7 @@ Shows the following
 - GiantBomb Facebook Feed (Facebook API)
 - Current Weather (Open Weather Map API)
 
-To run locally
+## To run locally
 
 ```
 export FLASK_APP=flaskapp.py (windows: set FLASK_APP=flaskapp.py)
